@@ -1,1 +1,2 @@
-[Alfabeto](alfabeto.md)
+[Alfabeto](alfabeto.md)  
+[Básico](basico.md)  
