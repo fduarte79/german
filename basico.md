@@ -1,5 +1,5 @@
 Hallo - rálô - olá   
-Was geht ab - vázgedab - e aí?
+Was geht ab - vázgedab - e aí?  
 lass uns gehen! - lassunsgen - vamos lá!  
 prost - prost - saúde  
 ja - iá - sim  
